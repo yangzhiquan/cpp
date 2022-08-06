@@ -1,3 +1,0 @@
-/Users/yvan/Desktop/Cpp/build/CMakeFiles/app.dir
-/Users/yvan/Desktop/Cpp/build/CMakeFiles/edit_cache.dir
-/Users/yvan/Desktop/Cpp/build/CMakeFiles/rebuild_cache.dir
